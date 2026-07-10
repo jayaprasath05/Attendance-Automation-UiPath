@@ -32,13 +32,22 @@ The system reads student attendance data from an Excel file, analyzes attendance
 6. Send report through email
 
 ## Project Structure
+
+```text
 Attendance-Automation-UiPath
 │
 ├── Main.xaml
 ├── project.json
 ├── attendance.xlsx
 ├── AttendanceReport.pdf
+├── Screenshots
+│   ├── workflow.png
+│   ├── attendance_input.png
+│   ├── report.png
+│   └── email.png
+│
 └── README.md
+```
 
 ## Output
 
