@@ -5,12 +5,7 @@
 \## Project Overview
 
 
-
-Attendance Automation System is an RPA-based project developed using UiPath to automate the attendance management process.
-
-
-
-The system reads student attendance data from an Excel file, analyzes attendance percentage, generates attendance reports, converts them into PDF format, and sends notifications through email.
+Developed an RPA-based attendance automation system using UiPath to eliminate manual attendance processing. The automation reads student attendance data from Excel, analyzes attendance percentage, generates PDF reports, and sends automated email notifications.
 
 
 
@@ -101,4 +96,16 @@ Attendance-Automation-UiPath
 │
 
 └── README.md
+## Screenshots
 
+### UiPath Workflow
+![Workflow](Screenshots/workflow.png)
+
+### Attendance Input Excel
+![Attendance Input](Screenshots/attendance_input.png)
+
+### Generated Attendance Report
+![Report](Screenshots/report.png)
+
+### Email Notification
+![Email](Screenshots/email.png)
