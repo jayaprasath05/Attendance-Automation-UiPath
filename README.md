@@ -79,3 +79,16 @@ Attendance-Automation-UiPath
 └── README.md
 ```
 
+## Screenshots
+
+### UiPath Workflow
+![Workflow](Screenshots/workflow.png)
+
+### Attendance Input Excel
+![Attendance Input](Screenshots/attendance_input.png)
+
+### Generated Attendance Report
+![Report](Screenshots/report.png)
+
+### Email Notification
+![Email](Screenshots/email.png)
