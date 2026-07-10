@@ -61,51 +61,21 @@ Developed an RPA-based attendance automation system using UiPath to eliminate ma
 
 
 
-\## Project Structure
-
-
+## Project Structure
 
 ```text
-
 Attendance-Automation-UiPath
-
 │
-
 ├── Main.xaml
-
 ├── project.json
-
-├── project.uroj
-
 ├── attendance.xlsx
-
 ├── AttendanceReport.pdf
-
-│
-
 ├── Screenshots
-
 │   ├── workflow.png
-
-│   ├── attendance\_input.png
-
+│   ├── attendance_input.png
 │   ├── report.png
-
 │   └── email.png
-
 │
-
 └── README.md
-## Screenshots
+```
 
-### UiPath Workflow
-![Workflow](Screenshots/workflow.png)
-
-### Attendance Input Excel
-![Attendance Input](Screenshots/attendance_input.png)
-
-### Generated Attendance Report
-![Report](Screenshots/report.png)
-
-### Email Notification
-![Email](Screenshots/email.png)
